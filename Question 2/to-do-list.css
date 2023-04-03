@@ -1,16 +1,16 @@
 .my-list {
-    background-color: #f7f381;
+    background-color: #d2691e;
     padding: 8px 24px;
     width: 500px;
     font-size: 30px;
-    border: 1px solid #f7f381;
+    border: 1px solid #d2691e;
     box-shadow: 0 0 10px 2px #333333;
     margin: auto;
     
 }
 
 .my-list:hover{
-    background-color: #b7b460;
+    background-color: #a65419;
 }
 
 .tasks {
